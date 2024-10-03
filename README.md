@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubhavsworld
-- 👀 I’m interested in competative coding and web development
-- 🌱 I’m currently learning c++
+- 👀 I’m mern stack developer
+- 🌱 I’m currently learning C++ with DSA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
